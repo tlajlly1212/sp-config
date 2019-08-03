@@ -1,8 +1,7 @@
 spring:
   application:
     name: zuul
-    
-  rabbitmq:
+  abbitmq:
     host: 192.168.94.128
     port: 5672
     username: admin
